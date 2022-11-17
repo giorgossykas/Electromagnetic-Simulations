@@ -1,4 +1,4 @@
-%% Theoretical values
+%% Wavenumber k cutoff theoretical values
 k_th = [0 157.08 314.15 314.15 351.23]';
 %%% Dimensions M, N either 50x25 or 100x50
 M = 100;
